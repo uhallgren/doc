@@ -1,0 +1,5 @@
+<map id="telia::person::Storage" name="telia::person::Storage">
+<area shape="rect" id="node1" title="The storage of persons." alt="" coords="20,80,181,107"/>
+<area shape="rect" id="node3" href="$classtelia_1_1person_1_1StorageImpl.html" title="Implements the person::Storage class." alt="" coords="5,155,196,181"/>
+<area shape="rect" id="node2" href="$classtelia_1_1util_1_1Interface.html" title="A base class for all interfaces. It makes sure that the destructor is virtual and also prevents copy." alt="" coords="27,5,174,32"/>
+</map>

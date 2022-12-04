@@ -1,0 +1,9 @@
+<map id="telia/curl/easy/easy.h" name="telia/curl/easy/easy.h">
+<area shape="rect" id="node1" title="Defins the Easy class." alt="" coords="254,5,413,32"/>
+<area shape="rect" id="node2" href="$easy_8cpp.html" title="The implementation of the curl Easy class." alt="" coords="57,80,231,107"/>
+<area shape="rect" id="node3" href="$server_8h.html" title="The Server interface." alt="" coords="256,80,411,107"/>
+<area shape="rect" id="node5" href="$storage_8cpp.html" title="The implementation of Storage." alt="" coords="244,229,423,256"/>
+<area shape="rect" id="node4" href="$server_8cpp.html" title="Implementation of the Server interface." alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node6" href="$storage_8h.html" title="Defines the Storage interface." alt="" coords="251,155,415,181"/>
+<area shape="rect" id="node7" href="$test_2server_8h_source.html" title=" " alt="" coords="440,155,624,181"/>
+</map>

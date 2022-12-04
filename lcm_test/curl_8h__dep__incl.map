@@ -1,0 +1,11 @@
+<map id="telia/curl/curl.h" name="telia/curl/curl.h">
+<area shape="rect" id="node1" title="The main include file for the c++ wrapper of libCurl." alt="" coords="119,5,237,32"/>
+<area shape="rect" id="node2" href="$curl_8cpp.html" title="Implementation of the general Curl functions and classes." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$easy_8cpp.html" title="The implementation of the curl Easy class." alt="" coords="73,155,248,181"/>
+<area shape="rect" id="node4" href="$easy_8h.html" title="Defins the Easy class." alt="" coords="252,80,411,107"/>
+<area shape="rect" id="node5" href="$server_8h.html" title="The Server interface." alt="" coords="273,155,427,181"/>
+<area shape="rect" id="node7" href="$storage_8cpp.html" title="The implementation of Storage." alt="" coords="261,304,439,331"/>
+<area shape="rect" id="node6" href="$server_8cpp.html" title="Implementation of the Server interface." alt="" coords="22,229,193,256"/>
+<area shape="rect" id="node8" href="$storage_8h.html" title="Defines the Storage interface." alt="" coords="268,229,432,256"/>
+<area shape="rect" id="node9" href="$test_2server_8h_source.html" title=" " alt="" coords="457,229,641,256"/>
+</map>

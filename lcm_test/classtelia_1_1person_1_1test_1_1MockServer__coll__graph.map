@@ -1,0 +1,5 @@
+<map id="telia::person::test::MockServer" name="telia::person::test::MockServer">
+<area shape="rect" id="node1" title=" " alt="" coords="14,155,150,196"/>
+<area shape="rect" id="node2" href="$classtelia_1_1person_1_1Server.html" title="An interface towards a remote server." alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$classtelia_1_1util_1_1Interface.html" title="A base class for all interfaces. It makes sure that the destructor is virtual and also prevents copy." alt="" coords="9,5,155,32"/>
+</map>

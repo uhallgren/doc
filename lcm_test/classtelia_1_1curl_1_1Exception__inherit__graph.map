@@ -1,0 +1,5 @@
+<map id="telia::curl::Exception" name="telia::curl::Exception">
+<area shape="rect" id="node1" title="The base for all curl Exceptions." alt="" coords="5,80,160,107"/>
+<area shape="rect" id="node3" href="$classtelia_1_1curl_1_1easy_1_1EasyException.html" title="The exception fro the Easy interface." alt="" coords="18,155,147,196"/>
+<area shape="rect" id="node2" title=" " alt="" coords="25,5,140,32"/>
+</map>

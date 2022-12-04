@@ -1,0 +1,8 @@
+<map id="telia/person/person.h" name="telia/person/person.h">
+<area shape="rect" id="node1" title="Defines the Person information class." alt="" coords="280,5,439,32"/>
+<area shape="rect" id="node2" href="$serialization_8h.html" title="Internal serialization support." alt="" coords="225,80,379,121"/>
+<area shape="rect" id="node3" href="$person_8cpp.html" title="Implements to person related classes." alt="" coords="5,177,180,203"/>
+<area shape="rect" id="node4" href="$storage_8cpp.html" title="The implementation of Storage." alt="" coords="441,177,619,203"/>
+<area shape="rect" id="node6" href="$storage_8h.html" title="Defines the Storage interface." alt="" coords="455,87,619,114"/>
+<area shape="rect" id="node5" href="$serialization__test_8cpp.html" title="Contains tests mainly of the serialization." alt="" coords="204,169,416,211"/>
+</map>

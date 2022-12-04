@@ -1,0 +1,12 @@
+<map id="telia/person/server.h" name="telia/person/server.h">
+<area shape="rect" id="node1" title="The Server interface." alt="" coords="263,5,417,32"/>
+<area shape="rect" id="node2" href="$easy_8h.html" title="Defins the Easy class." alt="" coords="378,80,537,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,229,83,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="444,229,503,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="543,155,606,181"/>
+<area shape="rect" id="node10" href="$util_8h.html" title="Defines some general utilities." alt="" coords="135,80,249,107"/>
+<area shape="rect" id="node3" href="$curl_8h.html" title="The main include file for the c++ wrapper of libCurl." alt="" coords="183,155,302,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="433,155,519,181"/>
+<area shape="rect" id="node4" href="$source__location_8h.html" title="Implements the source_location struct." alt="" coords="218,229,419,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="107,229,194,256"/>
+</map>
